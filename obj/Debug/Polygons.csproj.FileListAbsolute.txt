@@ -1,0 +1,9 @@
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\bin\Debug\Polygons.exe.config
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\bin\Debug\Polygons.exe
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\bin\Debug\Polygons.pdb
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\obj\Debug\Polygons.csprojAssemblyReference.cache
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\obj\Debug\Polygons.Form1.resources
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\obj\Debug\Polygons.Properties.Resources.resources
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\obj\Debug\Polygons.csproj.GenerateResource.cache
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\obj\Debug\Polygons.exe
+C:\Users\dariu\OneDrive\Documente\design\Stan_Darius-Iulian_XIIMI1\Polygons\obj\Debug\Polygons.pdb
